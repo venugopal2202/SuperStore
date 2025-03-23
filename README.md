@@ -71,3 +71,21 @@ Optimize discount strategies to improve profit margins. Focus marketing efforts 
 
 ## Conclusion
 The Power BI dashboard successfully highlighted key insights into sales, profits, and regional performance. The recommended strategies can help boost profitability, optimize inventory, and improve marketing efforts. Further analysis of customer behavior and order trends can enhance business decisions.
+
+
+## PowerBI Rport:
+![Screenshot 2025-03-23 140403](https://github.com/user-attachments/assets/5de805a5-abc0-40d7-adca-90ab531e13cc)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
