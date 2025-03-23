@@ -3,6 +3,8 @@
 
 
 # Superstore Sales Data Analysis and Sales Forecasting
+![super_store](https://github.com/user-attachments/assets/fed37c61-a3f5-44ef-8dba-2fba358d86a3)
+
 ## Superstore Sales Analysis Report
 ### Objective
 This report analyzes the Superstore Sales dataset using Power BI. The goal is to discover key insights and actionable recommendations. This will drive better decisions regarding sales performance, profitability, and regional trends.
