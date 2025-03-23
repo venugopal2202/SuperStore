@@ -75,6 +75,9 @@ The Power BI dashboard successfully highlighted key insights into sales, profits
 
 ## PowerBI Rport:
 ![Screenshot 2025-03-23 140403](https://github.com/user-attachments/assets/5de805a5-abc0-40d7-adca-90ab531e13cc)
+![Screenshot 2025-03-23 140500](https://github.com/user-attachments/assets/d0f224f4-2438-41d7-8ee2-5a5578e453d9)
+
+
 
 
 
