@@ -1,4 +1,6 @@
-# ![superstore](https://github.com/user-attachments/assets/256229f4-3c0c-4eb1-9043-da449cfe3665)
+
+![super_store](https://github.com/user-attachments/assets/af4de50e-88d7-4221-9db0-11718187b1f9)
+
 
 # Superstore Sales Data Analysis and Sales Forecasting
 ## Superstore Sales Analysis Report
