@@ -1,3 +1,4 @@
+https://www.google.com/imgres?q=superstore%20logo%20design&imgurl=https%3A%2F%2Fwww.wdsoft.in%2Fwp-content%2Fuploads%2F2024%2F07%2FThe-superstore-logo-design-service-by-wdsoft-scaled.webp&imgrefurl=https%3A%2F%2Fwww.wdsoft.in%2Fportfolio%2Fsuperstore-logo-design%2F&docid=60--NxQ5ZpEm0M&tbnid=1joBX3l4u2YUeM&vet=12ahUKEwims4_6g6CMAxWoT2wGHcvgHXAQM3oECBYQAA..i&w=2560&h=1707&hcb=2&ved=2ahUKEwims4_6g6CMAxWoT2wGHcvgHXAQM3oECBYQAA
 # Superstore Sales Data Analysis and Sales Forecasting
 ## Superstore Sales Analysis Report
 ### Objective
